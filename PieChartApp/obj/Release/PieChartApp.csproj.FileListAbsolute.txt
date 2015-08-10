@@ -1,0 +1,12 @@
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\bin\Release\PieChartApp.dll
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\bin\Release\PieChartApp.pdb
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\ScottLogic\PieChart\PiePlotter.g.cs
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\PieChartApp_MarkupCompile.cache
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\PieChartApp_MarkupCompile.lref
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\ScottLogic\PieChart\PiePlotter.baml
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\PieChartApp.g.resources
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\PieChartApp.Properties.Resources.resources
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\PieChartApp.csproj.GenerateResource.Cache
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\PieChartApp.dll
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Release\PieChartApp.pdb
