@@ -1,0 +1,13 @@
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\bin\Debug\PieChartApp.dll
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\bin\Debug\PieChartApp.pdb
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp.csprojResolveAssemblyReference.cache
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp_MarkupCompile.cache
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp.g.resources
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp.Properties.Resources.resources
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp.csproj.GenerateResource.Cache
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp.dll
+c:\users\intern1\documents\visual studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp.pdb
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\ScottLogic\PieChart\PiePlotter.g.cs
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\PieChartApp_MarkupCompile.lref
+C:\Users\Intern1\Documents\Visual Studio 2013\Projects\PieChartApp\PieChartApp\obj\Debug\ScottLogic\PieChart\PiePlotter.baml
